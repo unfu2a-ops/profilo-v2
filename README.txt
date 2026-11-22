@@ -58,4 +58,4 @@ Created as a personal portfolio project.
 
 ---
 
-⭐ If you find this project interesting, feel free to explore the repository!
+⭐ If you find this project interesting, feel free to explore the repository! .
